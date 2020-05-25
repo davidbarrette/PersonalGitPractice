@@ -1,0 +1,7 @@
+#Ignore everything
+*
+
+#except these
+!Yabado.txt
+!.gitignore
+!README.md

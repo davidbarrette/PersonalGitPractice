@@ -1,4 +1,3 @@
-***This is the third commit, replace the previous text with this, in order to see how Github lets me view the changes
+***I'm trying once again to figure out the reset command
 git add .
-git commit -m "this is the third commit"
-git push
+git commit "reset try again pt1"

@@ -1,3 +1,5 @@
 ***I'm trying once again to figure out the reset command
 git add .
-git commit "reset try again pt1"
+git commit -m "reset try again pt1"
+*** Second commit changes
+I know the code for adding local commits

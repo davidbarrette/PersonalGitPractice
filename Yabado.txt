@@ -1,5 +1,7 @@
-***I'm trying once again to figure out the reset command
-git add .
-git commit -m "reset try again pt1"
-*** Second commit changes
-I know the code for adding local commits
+***in order to make multiple commits into one, I will now try the interactive squash interface
+Initial commit text
+***Second commit, the code to squash will be, after creating this next commit, would like to try this with a higher number after HEAD, incase I don't remember 
+***how many commits I've done locally (Make good commit messages, duh, then use git log)
+git log (To see my messages)
+git rebase -i HEAD~2
+*Change the "pick" to squash (or s) and change the message

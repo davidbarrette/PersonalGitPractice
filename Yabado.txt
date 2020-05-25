@@ -1,4 +1,4 @@
-***This will be the second commit with text added
+***This is the third commit, replace the previous text with this, in order to see how Github lets me view the changes
 git add .
-git commit -m "This will be the second commit"
+git commit -m "this is the third commit"
 git push
